@@ -1,0 +1,14 @@
+E:\obo\Bryian\B2894(28th DEC2023)\KCA_University\Year_4\SEM_2\Advanced_Application_Programming\PaySlipConsoleApp\PaySlipConsoleApp\bin\Debug\netcoreapp3.1\PaySlipConsoleApp.exe
+E:\obo\Bryian\B2894(28th DEC2023)\KCA_University\Year_4\SEM_2\Advanced_Application_Programming\PaySlipConsoleApp\PaySlipConsoleApp\bin\Debug\netcoreapp3.1\PaySlipConsoleApp.deps.json
+E:\obo\Bryian\B2894(28th DEC2023)\KCA_University\Year_4\SEM_2\Advanced_Application_Programming\PaySlipConsoleApp\PaySlipConsoleApp\bin\Debug\netcoreapp3.1\PaySlipConsoleApp.runtimeconfig.json
+E:\obo\Bryian\B2894(28th DEC2023)\KCA_University\Year_4\SEM_2\Advanced_Application_Programming\PaySlipConsoleApp\PaySlipConsoleApp\bin\Debug\netcoreapp3.1\PaySlipConsoleApp.runtimeconfig.dev.json
+E:\obo\Bryian\B2894(28th DEC2023)\KCA_University\Year_4\SEM_2\Advanced_Application_Programming\PaySlipConsoleApp\PaySlipConsoleApp\bin\Debug\netcoreapp3.1\PaySlipConsoleApp.dll
+E:\obo\Bryian\B2894(28th DEC2023)\KCA_University\Year_4\SEM_2\Advanced_Application_Programming\PaySlipConsoleApp\PaySlipConsoleApp\bin\Debug\netcoreapp3.1\PaySlipConsoleApp.pdb
+E:\obo\Bryian\B2894(28th DEC2023)\KCA_University\Year_4\SEM_2\Advanced_Application_Programming\PaySlipConsoleApp\PaySlipConsoleApp\obj\Debug\netcoreapp3.1\PaySlipConsoleApp.csproj.AssemblyReference.cache
+E:\obo\Bryian\B2894(28th DEC2023)\KCA_University\Year_4\SEM_2\Advanced_Application_Programming\PaySlipConsoleApp\PaySlipConsoleApp\obj\Debug\netcoreapp3.1\PaySlipConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\obo\Bryian\B2894(28th DEC2023)\KCA_University\Year_4\SEM_2\Advanced_Application_Programming\PaySlipConsoleApp\PaySlipConsoleApp\obj\Debug\netcoreapp3.1\PaySlipConsoleApp.AssemblyInfoInputs.cache
+E:\obo\Bryian\B2894(28th DEC2023)\KCA_University\Year_4\SEM_2\Advanced_Application_Programming\PaySlipConsoleApp\PaySlipConsoleApp\obj\Debug\netcoreapp3.1\PaySlipConsoleApp.AssemblyInfo.cs
+E:\obo\Bryian\B2894(28th DEC2023)\KCA_University\Year_4\SEM_2\Advanced_Application_Programming\PaySlipConsoleApp\PaySlipConsoleApp\obj\Debug\netcoreapp3.1\PaySlipConsoleApp.csproj.CoreCompileInputs.cache
+E:\obo\Bryian\B2894(28th DEC2023)\KCA_University\Year_4\SEM_2\Advanced_Application_Programming\PaySlipConsoleApp\PaySlipConsoleApp\obj\Debug\netcoreapp3.1\PaySlipConsoleApp.dll
+E:\obo\Bryian\B2894(28th DEC2023)\KCA_University\Year_4\SEM_2\Advanced_Application_Programming\PaySlipConsoleApp\PaySlipConsoleApp\obj\Debug\netcoreapp3.1\PaySlipConsoleApp.pdb
+E:\obo\Bryian\B2894(28th DEC2023)\KCA_University\Year_4\SEM_2\Advanced_Application_Programming\PaySlipConsoleApp\PaySlipConsoleApp\obj\Debug\netcoreapp3.1\PaySlipConsoleApp.genruntimeconfig.cache
