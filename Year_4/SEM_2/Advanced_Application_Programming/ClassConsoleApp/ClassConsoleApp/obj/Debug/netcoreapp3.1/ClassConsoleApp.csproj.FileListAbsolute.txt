@@ -1,0 +1,14 @@
+E:\obo\Bryian\B2894(28th DEC2023)\KCA_University\Year_4\SEM_2\Advanced_Application_Programming\ClassConsoleApp\ClassConsoleApp\bin\Debug\netcoreapp3.1\ClassConsoleApp.exe
+E:\obo\Bryian\B2894(28th DEC2023)\KCA_University\Year_4\SEM_2\Advanced_Application_Programming\ClassConsoleApp\ClassConsoleApp\bin\Debug\netcoreapp3.1\ClassConsoleApp.deps.json
+E:\obo\Bryian\B2894(28th DEC2023)\KCA_University\Year_4\SEM_2\Advanced_Application_Programming\ClassConsoleApp\ClassConsoleApp\bin\Debug\netcoreapp3.1\ClassConsoleApp.runtimeconfig.json
+E:\obo\Bryian\B2894(28th DEC2023)\KCA_University\Year_4\SEM_2\Advanced_Application_Programming\ClassConsoleApp\ClassConsoleApp\bin\Debug\netcoreapp3.1\ClassConsoleApp.runtimeconfig.dev.json
+E:\obo\Bryian\B2894(28th DEC2023)\KCA_University\Year_4\SEM_2\Advanced_Application_Programming\ClassConsoleApp\ClassConsoleApp\bin\Debug\netcoreapp3.1\ClassConsoleApp.dll
+E:\obo\Bryian\B2894(28th DEC2023)\KCA_University\Year_4\SEM_2\Advanced_Application_Programming\ClassConsoleApp\ClassConsoleApp\bin\Debug\netcoreapp3.1\ClassConsoleApp.pdb
+E:\obo\Bryian\B2894(28th DEC2023)\KCA_University\Year_4\SEM_2\Advanced_Application_Programming\ClassConsoleApp\ClassConsoleApp\obj\Debug\netcoreapp3.1\ClassConsoleApp.csproj.AssemblyReference.cache
+E:\obo\Bryian\B2894(28th DEC2023)\KCA_University\Year_4\SEM_2\Advanced_Application_Programming\ClassConsoleApp\ClassConsoleApp\obj\Debug\netcoreapp3.1\ClassConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\obo\Bryian\B2894(28th DEC2023)\KCA_University\Year_4\SEM_2\Advanced_Application_Programming\ClassConsoleApp\ClassConsoleApp\obj\Debug\netcoreapp3.1\ClassConsoleApp.AssemblyInfoInputs.cache
+E:\obo\Bryian\B2894(28th DEC2023)\KCA_University\Year_4\SEM_2\Advanced_Application_Programming\ClassConsoleApp\ClassConsoleApp\obj\Debug\netcoreapp3.1\ClassConsoleApp.AssemblyInfo.cs
+E:\obo\Bryian\B2894(28th DEC2023)\KCA_University\Year_4\SEM_2\Advanced_Application_Programming\ClassConsoleApp\ClassConsoleApp\obj\Debug\netcoreapp3.1\ClassConsoleApp.csproj.CoreCompileInputs.cache
+E:\obo\Bryian\B2894(28th DEC2023)\KCA_University\Year_4\SEM_2\Advanced_Application_Programming\ClassConsoleApp\ClassConsoleApp\obj\Debug\netcoreapp3.1\ClassConsoleApp.dll
+E:\obo\Bryian\B2894(28th DEC2023)\KCA_University\Year_4\SEM_2\Advanced_Application_Programming\ClassConsoleApp\ClassConsoleApp\obj\Debug\netcoreapp3.1\ClassConsoleApp.pdb
+E:\obo\Bryian\B2894(28th DEC2023)\KCA_University\Year_4\SEM_2\Advanced_Application_Programming\ClassConsoleApp\ClassConsoleApp\obj\Debug\netcoreapp3.1\ClassConsoleApp.genruntimeconfig.cache
