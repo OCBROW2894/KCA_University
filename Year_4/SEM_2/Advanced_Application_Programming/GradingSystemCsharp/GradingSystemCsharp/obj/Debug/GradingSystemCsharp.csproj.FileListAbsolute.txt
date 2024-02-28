@@ -1,0 +1,10 @@
+E:\obo\Bryian\B2894(28th DEC2023)\KCA_University\Year_4\SEM_2\Advanced_Application_Programming\GradingSystemCsharp\GradingSystemCsharp\bin\Debug\GradingSystemCsharp.exe.config
+E:\obo\Bryian\B2894(28th DEC2023)\KCA_University\Year_4\SEM_2\Advanced_Application_Programming\GradingSystemCsharp\GradingSystemCsharp\bin\Debug\GradingSystemCsharp.exe
+E:\obo\Bryian\B2894(28th DEC2023)\KCA_University\Year_4\SEM_2\Advanced_Application_Programming\GradingSystemCsharp\GradingSystemCsharp\bin\Debug\GradingSystemCsharp.pdb
+E:\obo\Bryian\B2894(28th DEC2023)\KCA_University\Year_4\SEM_2\Advanced_Application_Programming\GradingSystemCsharp\GradingSystemCsharp\obj\Debug\GradingSystemCsharp.csproj.AssemblyReference.cache
+E:\obo\Bryian\B2894(28th DEC2023)\KCA_University\Year_4\SEM_2\Advanced_Application_Programming\GradingSystemCsharp\GradingSystemCsharp\obj\Debug\GradingSystemCsharp.Form1.resources
+E:\obo\Bryian\B2894(28th DEC2023)\KCA_University\Year_4\SEM_2\Advanced_Application_Programming\GradingSystemCsharp\GradingSystemCsharp\obj\Debug\GradingSystemCsharp.Properties.Resources.resources
+E:\obo\Bryian\B2894(28th DEC2023)\KCA_University\Year_4\SEM_2\Advanced_Application_Programming\GradingSystemCsharp\GradingSystemCsharp\obj\Debug\GradingSystemCsharp.csproj.GenerateResource.cache
+E:\obo\Bryian\B2894(28th DEC2023)\KCA_University\Year_4\SEM_2\Advanced_Application_Programming\GradingSystemCsharp\GradingSystemCsharp\obj\Debug\GradingSystemCsharp.csproj.CoreCompileInputs.cache
+E:\obo\Bryian\B2894(28th DEC2023)\KCA_University\Year_4\SEM_2\Advanced_Application_Programming\GradingSystemCsharp\GradingSystemCsharp\obj\Debug\GradingSystemCsharp.exe
+E:\obo\Bryian\B2894(28th DEC2023)\KCA_University\Year_4\SEM_2\Advanced_Application_Programming\GradingSystemCsharp\GradingSystemCsharp\obj\Debug\GradingSystemCsharp.pdb

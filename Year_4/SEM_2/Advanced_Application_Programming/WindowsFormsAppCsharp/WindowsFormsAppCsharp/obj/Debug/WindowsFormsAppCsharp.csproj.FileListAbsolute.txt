@@ -1,0 +1,10 @@
+E:\obo\Bryian\B2894(28th DEC2023)\KCA_University\Year_4\SEM_2\Advanced_Application_Programming\WindowsFormsAppCsharp\WindowsFormsAppCsharp\obj\Debug\WindowsFormsAppCsharp.csproj.AssemblyReference.cache
+E:\obo\Bryian\B2894(28th DEC2023)\KCA_University\Year_4\SEM_2\Advanced_Application_Programming\WindowsFormsAppCsharp\WindowsFormsAppCsharp\obj\Debug\WindowsFormsAppCsharp.Form1.resources
+E:\obo\Bryian\B2894(28th DEC2023)\KCA_University\Year_4\SEM_2\Advanced_Application_Programming\WindowsFormsAppCsharp\WindowsFormsAppCsharp\obj\Debug\WindowsFormsAppCsharp.Properties.Resources.resources
+E:\obo\Bryian\B2894(28th DEC2023)\KCA_University\Year_4\SEM_2\Advanced_Application_Programming\WindowsFormsAppCsharp\WindowsFormsAppCsharp\obj\Debug\WindowsFormsAppCsharp.csproj.GenerateResource.cache
+E:\obo\Bryian\B2894(28th DEC2023)\KCA_University\Year_4\SEM_2\Advanced_Application_Programming\WindowsFormsAppCsharp\WindowsFormsAppCsharp\obj\Debug\WindowsFormsAppCsharp.csproj.CoreCompileInputs.cache
+E:\obo\Bryian\B2894(28th DEC2023)\KCA_University\Year_4\SEM_2\Advanced_Application_Programming\WindowsFormsAppCsharp\WindowsFormsAppCsharp\bin\Debug\WindowsFormsAppCsharp.exe.config
+E:\obo\Bryian\B2894(28th DEC2023)\KCA_University\Year_4\SEM_2\Advanced_Application_Programming\WindowsFormsAppCsharp\WindowsFormsAppCsharp\bin\Debug\WindowsFormsAppCsharp.exe
+E:\obo\Bryian\B2894(28th DEC2023)\KCA_University\Year_4\SEM_2\Advanced_Application_Programming\WindowsFormsAppCsharp\WindowsFormsAppCsharp\bin\Debug\WindowsFormsAppCsharp.pdb
+E:\obo\Bryian\B2894(28th DEC2023)\KCA_University\Year_4\SEM_2\Advanced_Application_Programming\WindowsFormsAppCsharp\WindowsFormsAppCsharp\obj\Debug\WindowsFormsAppCsharp.exe
+E:\obo\Bryian\B2894(28th DEC2023)\KCA_University\Year_4\SEM_2\Advanced_Application_Programming\WindowsFormsAppCsharp\WindowsFormsAppCsharp\obj\Debug\WindowsFormsAppCsharp.pdb
