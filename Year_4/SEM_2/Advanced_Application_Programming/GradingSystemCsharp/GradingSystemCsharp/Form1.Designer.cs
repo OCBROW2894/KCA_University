@@ -46,6 +46,8 @@ namespace GradingSystemCsharp
             this.txtTotal = new System.Windows.Forms.TextBox();
             this.txtGrade = new System.Windows.Forms.TextBox();
             this.btnCompute = new System.Windows.Forms.Button();
+            this.btnClear = new System.Windows.Forms.Button();
+            this.btnExit = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // label1
@@ -178,7 +180,7 @@ namespace GradingSystemCsharp
             // 
             // btnCompute
             // 
-            this.btnCompute.Location = new System.Drawing.Point(205, 262);
+            this.btnCompute.Location = new System.Drawing.Point(35, 266);
             this.btnCompute.Name = "btnCompute";
             this.btnCompute.Size = new System.Drawing.Size(122, 35);
             this.btnCompute.TabIndex = 16;
@@ -186,11 +188,33 @@ namespace GradingSystemCsharp
             this.btnCompute.UseVisualStyleBackColor = true;
             this.btnCompute.Click += new System.EventHandler(this.btnCompute_Click);
             // 
+            // btnClear
+            // 
+            this.btnClear.Location = new System.Drawing.Point(222, 266);
+            this.btnClear.Name = "btnClear";
+            this.btnClear.Size = new System.Drawing.Size(103, 35);
+            this.btnClear.TabIndex = 17;
+            this.btnClear.Text = "CLEAR";
+            this.btnClear.UseVisualStyleBackColor = true;
+            this.btnClear.Click += new System.EventHandler(this.btnClear_Click);
+            // 
+            // btnExit
+            // 
+            this.btnExit.Location = new System.Drawing.Point(380, 266);
+            this.btnExit.Name = "btnExit";
+            this.btnExit.Size = new System.Drawing.Size(103, 35);
+            this.btnExit.TabIndex = 18;
+            this.btnExit.Text = "EXIT";
+            this.btnExit.UseVisualStyleBackColor = true;
+            this.btnExit.Click += new System.EventHandler(this.btnExit_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(566, 378);
+            this.Controls.Add(this.btnExit);
+            this.Controls.Add(this.btnClear);
             this.Controls.Add(this.btnCompute);
             this.Controls.Add(this.txtGrade);
             this.Controls.Add(this.txtTotal);
@@ -234,6 +258,8 @@ namespace GradingSystemCsharp
         private System.Windows.Forms.TextBox txtTotal;
         private System.Windows.Forms.TextBox txtGrade;
         private System.Windows.Forms.Button btnCompute;
+        private System.Windows.Forms.Button btnClear;
+        private System.Windows.Forms.Button btnExit;
     }
 }
 

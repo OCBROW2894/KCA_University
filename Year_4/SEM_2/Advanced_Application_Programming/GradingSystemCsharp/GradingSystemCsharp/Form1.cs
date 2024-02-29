@@ -53,7 +53,23 @@ namespace GradingSystemCsharp
             txtTotal.Text = tot.ToString();
 
             
-        } 
-                     
+        }
+
+        private void btnExit_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
+
+        private void btnClear_Click(object sender, EventArgs e)
+        {
+            txtMath.Clear();
+            txtPhyc.Clear();
+            txtBio.Clear();
+            txtChem.Clear();
+            txtGeo.Clear();
+            txtAve.Clear();
+            txtGrade.Clear();
+            txtTotal.Clear();
+        }
     }
 }
